@@ -202,4 +202,17 @@ The learning path focuses on understanding **how and why the code works**, rathe
 * [x] Automated report generation
 * [x] Git & GitHub workflow
 
+
+
+## Week 2 — AI Automation Fundamentals
+
+## Week 2 — AI Automation Fundamentals
+
+- [Named Entity Recognition](Week2/Named_Entity_Recognition) — Extracts persons, dates, locations, and organizations from text as structured JSON using the Gemini API.
+- [System Prompt Roles](Week2/SystemPrompt_Roles) — CLI tool with 3 configurable AI personas (Python code reviewer, Urdu/English translator, strict grammar corrector) via system prompts.
+- [Token Management](Week2/Token_Management) — Notes and scripts on token counting and API cost estimation.
+- [AI Text Processing Toolkit](Week2/AI_Text_Processing_Toolkit) — 5 AI-powered functions (summarize, translate, fix grammar, extract keywords, classify sentiment) using the Gemini API with structured JSON output.
+- [Mini Chatbot](Week2/Mini_Chatbot) — CLI chatbot using the Gemini API with markdown-stripped output.
+
+-------------------------------------------------------------------------
 More projects will be added as the learning journey continues.
