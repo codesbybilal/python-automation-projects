@@ -3,7 +3,7 @@
 .env.*
 
 # PDF documents
-*.pdf
+
 
 # Extracted output
 extracted.txt

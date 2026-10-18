@@ -1,0 +1,71 @@
+{
+    "name": "Ayesha Rahman",
+    "email": "ayesha.rahman@example.com",
+    "phone": "+92 300 1234567",
+    "education": [
+        {
+            "degree": "Bachelor of Science in Computer Science",
+            "institution": "FAST National University of Computer and Emerging Sciences, Lahore",
+            "start_year": "2017",
+            "end_year": "2021"
+        },
+        {
+            "degree": "Intermediate in Pre-Engineering (FSc)",
+            "institution": "Government College University, Lahore",
+            "start_year": "2015",
+            "end_year": "2017"
+        }
+    ],
+    "work_experience": [
+        {
+            "job_title": "Software Engineer",
+            "company": "Nexora Technologies, Lahore",
+            "start_date": "2023-03",
+            "end_date": "Present",
+            "description": "Developed and maintained 6 microservices in Node.js and Express, serving 200,000+ monthly users. Reduced API response time by 38% through query optimization and Redis caching. Led migration of a legacy PHP application to a React and Node.js stack. Mentored 3 junior developers and conducted weekly code reviews."
+        },
+        {
+            "job_title": "Junior Web Developer",
+            "company": "BrightLoop Solutions, Islamabad",
+            "start_date": "2021-07",
+            "end_date": "2023-02",
+            "description": "Built responsive front-end interfaces using React, Redux, and Tailwind CSS. Integrated third-party payment gateways and REST APIs. Wrote unit and integration tests with Jest, raising code coverage from 45% to 82%."
+        },
+        {
+            "job_title": "Software Development Intern",
+            "company": "Pixelwave Studio, Lahore",
+            "start_date": "2020-06",
+            "end_date": "2020-09",
+            "description": "Assisted in developing a client dashboard using Vue.js and Firebase. Fixed 40+ UI and functional bugs across two production releases."
+        }
+    ],
+    "skills": [
+        "JavaScript",
+        "TypeScript",
+        "Python",
+        "SQL",
+        "Java",
+        "React",
+        "Redux",
+        "Next.js",
+        "HTML5",
+        "CSS3",
+        "Tailwind CSS",
+        "Node.js",
+        "Express",
+        "Django",
+        "REST APIs",
+        "GraphQL",
+        "MongoDB",
+        "PostgreSQL",
+        "MySQL",
+        "Redis",
+        "Git",
+        "Docker",
+        "GitHub Actions",
+        "AWS",
+        "Postman",
+        "Jira"
+    ],
+    "total_years_experience": 5.7
+}
