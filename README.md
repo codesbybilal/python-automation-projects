@@ -214,5 +214,11 @@ The learning path focuses on understanding **how and why the code works**, rathe
 - [AI Text Processing Toolkit](Week2/AI_Text_Processing_Toolkit) — 5 AI-powered functions (summarize, translate, fix grammar, extract keywords, classify sentiment) using the Gemini API with structured JSON output.
 - [Mini Chatbot](Week2/Mini_Chatbot) — CLI chatbot using the Gemini API with markdown-stripped output.
 
+
+## Week 3 — Document Automation
+
+- [PDF Extraction](https://github.com/codesbybilal/python-automation-projects/tree/main/Week3/PDF_Extraction) — Extracts text from a PDF fee challan with `pdfplumber` and returns the student name, fee amount and due date as structured JSON using the Gemini API.
+- [Excel AI Feedback](https://github.com/codesbybilal/python-automation-projects/tree/main/Week3/Excel_AI_Feedback) — Reads student marks from an Excel file, generates a personalised feedback comment for each student with the Gemini API, and writes the results back to the workbook. Includes retries and resumable runs.
+- [CV Parser](https://github.com/codesbybilal/python-automation-projects/tree/main/Week3/CV_Parser) — Parses a CV in PDF format into structured JSON (contact details, education, work experience, skills) using `pdfplumber` and the Gemini API, and calculates total years of experience in Python.
 -------------------------------------------------------------------------
 More projects will be added as the learning journey continues.
